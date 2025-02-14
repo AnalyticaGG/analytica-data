@@ -1,0 +1,26 @@
+{
+    "mauler": {
+        "name": "Mauler",
+        "imageUrl": "https://i.imgur.com/29RsOuj.png"
+    },
+    "wilder": {
+        "name": "Wilder",
+        "imageUrl": "https://i.imgur.com/TkqtHLt.png"
+    },
+    "lightbearer": {
+        "name": "Lightbearer",
+        "imageUrl": "https://i.imgur.com/JCTfh2H.png"
+    },
+    "graveborn": {
+        "name": "Graveborn",
+        "imageUrl": "https://i.imgur.com/DVVPH0F.png"
+    },
+    "celestial": {
+        "name": "Celestial",
+        "imageUrl": "https://i.imgur.com/qfjlefJ.png"
+    },
+    "hypogean": {
+        "name": "Hypogean",
+        "imageUrl": "https://i.imgur.com/OzXfs4b.png"
+    }
+}
