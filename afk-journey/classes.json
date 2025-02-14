@@ -1,0 +1,26 @@
+{
+    "mage": {
+        "name": "Mage",
+        "imageUrl": "https://i.imgur.com/eER9zhK.png"
+    },
+    "warrior": {
+        "name": "Warrior",
+        "imageUrl": "https://i.imgur.com/6UBTz4i.png"
+    },
+    "marksman": {
+        "name": "Marksman",
+        "imageUrl": "https://i.imgur.com/gOWtMZX.png"
+    },
+    "rogue": {
+        "name": "Rogue",
+        "imageUrl": "https://i.imgur.com/7pWYPW9.png"
+    },
+    "tank": {
+        "name": "Tank",
+        "imageUrl": "https://i.imgur.com/TbI5KuG.png"
+    },
+    "support": {
+        "name": "Support",
+        "imageUrl": "https://i.imgur.com/Ht1QdFf.png"
+    }
+}
