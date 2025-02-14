@@ -1,0 +1,224 @@
+{
+    "awakening": {
+        "value": "awakening",
+        "imageUrl": "https://i.imgur.com/mC7OJqE.png",
+        "label": "Awakening",
+        "category": "permanent"
+    },
+    "blazing": {
+        "value": "blazing",
+        "imageUrl": "https://i.imgur.com/nMU4WvY.png",
+        "label": "Blazing",
+        "category": "permanent"
+    },
+    "confining": {
+        "value": "confining",
+        "imageUrl": "https://i.imgur.com/0LouOT9.png",
+        "label": "Confining",
+        "category": "permanent"
+    },
+    "enlightening": {
+        "value": "enlightening",
+        "imageUrl": "https://i.imgur.com/u2tnZbL.png",
+        "label": "Enlightening",
+        "category": "permanent"
+    },
+    "ironwall": {
+        "value": "ironwall",
+        "imageUrl": "https://i.imgur.com/nhGrGpj.png",
+        "label": "Ironwall",
+        "category": "permanent"
+    },
+    "starshard": {
+        "value": "starshard",
+        "imageUrl": "https://i.imgur.com/ARE8NtG.png",
+        "label": "Starshard",
+        "category": "permanent"
+    },
+    "random": {
+        "value": "random",
+        "imageUrl": "https://i.imgur.com/IOsEEsF.png",
+        "label": "Random",
+        "category": "permanent"
+    },
+    "lightheal": {
+        "value": "lightheal",
+        "imageUrl": "https://i.imgur.com/NDR1QuO.png",
+        "label": "Lightheal",
+        "category": "expired"
+    },
+    "crescent": {
+        "value": "crescent",
+        "imageUrl": "https://i.imgur.com/5U7YhLU.png",
+        "label": "Crescent",
+        "category": "expired"
+    },
+    "quickblade": {
+        "value": "quickblade",
+        "imageUrl": "https://i.imgur.com/4iEGtex.png",
+        "label": "Quickblade",
+        "category": "expired"
+    },
+    "stormcaller": {
+        "value": "stormcaller",
+        "imageUrl": "https://i.imgur.com/zhuCYgf.png",
+        "label": "Stormcaller",
+        "category": "expired"
+    },
+    "cascade": {
+        "value": "cascade",
+        "imageUrl": "https://i.imgur.com/Epo1dqe.png",
+        "label": "Cascade",
+        "category": "expired"
+    },
+    "evocation": {
+        "value": "evocation",
+        "imageUrl": "https://i.imgur.com/qwv2V4Y.png",
+        "label": "Evocation",
+        "category": "expired"
+    },
+    "thunderbolt": {
+        "value": "thunderbolt",
+        "imageUrl": "https://i.imgur.com/51jST6B.png",
+        "label": "Thunderbolt",
+        "category": "expired"
+    },
+    "dashing": {
+        "value": "dashing",
+        "imageUrl": "https://i.imgur.com/5HgpyHE.png",
+        "label": "Dashing",
+        "category": "expired"
+    },
+    "swiftheal": {
+        "value": "swiftheal",
+        "imageUrl": "https://i.imgur.com/3FXGc7e.png",
+        "label": "Swiftheal",
+        "category": "expired"
+    },
+    "verdant": {
+        "value": "verdant",
+        "imageUrl": "https://i.imgur.com/TIqnknM.png",
+        "label": "Verdant",
+        "category": "expired"
+    },
+    "resonating": {
+        "value": "resonating",
+        "imageUrl": "https://i.imgur.com/ehw3w2b.png",
+        "label": "Resonating",
+        "category": "expired"
+    },
+    "binding": {
+        "value": "binding",
+        "imageUrl": "https://i.imgur.com/GrFxqTc.png",
+        "label": "Binding",
+        "category": "expired"
+    },
+    "tidecall": {
+        "value": "tidecall",
+        "imageUrl": "https://i.imgur.com/GZTR6GN.png",
+        "label": "Tidecall",
+        "category": "expired"
+    },
+    "greatsword": {
+        "value": "greatsword",
+        "imageUrl": "https://i.imgur.com/YH4qyZy.png",
+        "label": "Greatsword",
+        "category": "expired"
+    },
+    "arcane": {
+        "value": "arcane",
+        "imageUrl": "https://i.imgur.com/ahTyLi7.png",
+        "label": "Arcane",
+        "category": "expired"
+    },
+    "thunderclap": {
+        "value": "thunderclap",
+        "imageUrl": "https://i.imgur.com/xUDEM7K.png",
+        "label": "Thunderclap",
+        "category": "expired"
+    },
+    "frontline": {
+        "value": "frontline",
+        "imageUrl": "https://i.imgur.com/G3dQlBG.png",
+        "label": "Frontline",
+        "category": "expired"
+    },
+    "valorshield": {
+        "value": "valorshield",
+        "imageUrl": "https://i.imgur.com/1YtwV3B.png",
+        "label": "Valorshield",
+        "category": "expired"
+    },
+    "banishing": {
+        "value": "banishing",
+        "imageUrl": "https://i.imgur.com/3Grq4Ex.png",
+        "label": "Banishing",
+        "category": "seasonal"
+    },
+    "bladesummon": {
+        "value": "bladesummon",
+        "imageUrl": "https://i.imgur.com/lQ3u0Wg.png",
+        "label": "Bladesummon",
+        "category": "seasonal"
+    },
+    "frostfall": {
+        "value": "frostfall",
+        "imageUrl": "https://i.imgur.com/YND63yL.png",
+        "label": "Frostfall",
+        "category": "seasonal"
+    },
+    "harmonic": {
+        "value": "harmonic",
+        "imageUrl": "https://i.imgur.com/2Bkqh41.png",
+        "label": "Harmonic",
+        "category": "seasonal"
+    },
+    "iceguard": {
+        "value": "iceguard",
+        "imageUrl": "https://i.imgur.com/1YtwV3B.png",
+        "label": "Iceguard",
+        "category": "seasonal"
+    },
+    "lightforge": {
+        "value": "lightforge",
+        "imageUrl": "https://i.imgur.com/W0n3H37.png",
+        "label": "Lightforge",
+        "category": "seasonal"
+    },
+    "overcharge": {
+        "value": "overcharge",
+        "imageUrl": "https://i.imgur.com/gM3W6R7.png",
+        "label": "Overcharge",
+        "category": "seasonal"
+    },
+    "sanctum": {
+        "value": "sanctum",
+        "imageUrl": "https://i.imgur.com/SXo3mew.png",
+        "label": "Sanctum",
+        "category": "seasonal"
+    },
+    "snowman": {
+        "value": "snowman",
+        "imageUrl": "https://i.imgur.com/ZUH1Twa.png",
+        "label": "Snowman",
+        "category": "seasonal"
+    },
+    "soulbound": {
+        "value": "soulbound",
+        "imageUrl": "https://i.imgur.com/mRWhM0c.png",
+        "label": "Soulbound",
+        "category": "seasonal"
+    },
+    "stormstrike": {
+        "value": "stormstrike",
+        "imageUrl": "https://i.imgur.com/z6o2EiS.png",
+        "label": "Stormstrike",
+        "category": "seasonal"
+    },
+    "surging": {
+        "value": "surging",
+        "imageUrl": "https://i.imgur.com/8OnGQGi.png",
+        "label": "Surging",
+        "category": "seasonal"
+    }
+}
